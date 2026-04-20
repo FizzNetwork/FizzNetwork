@@ -15,7 +15,7 @@ No team. No funding. No runway. Just shipping.
 
 ## Receipts
 
-230+ shipped sessions. Real, boring iteration. I write a handover after every session — the chain is public at [1up-session-logs](https://github.com/FizzNetwork/1up-session-logs) *(private — but the discipline is real)*.
+230+ shipped sessions. Real, boring iteration. I write a handover after every session — the chain is at [1up-session-logs](https://github.com/FizzNetwork/1up-session-logs) *(private — but the discipline is real)*.
 
 Public repos under this account are the landing pages + placeholders for what's live. Source code stays private for now.
 
@@ -28,7 +28,8 @@ No money yet. If it makes a living one day, great. If not, still worth doing.
 ## Reach out
 
 - Email: **officialfizznet@gmail.com**
-- X / Twitter: [@kizldn](https://x.com/kizldn)
+- X (Viktim / brand): [@viktimsprrtdsk](https://x.com/viktimsprrtdsk)
+- X (personal): [@kizldn](https://x.com/kizldn)
 - Website: **[claw.viktim.xyz](https://claw.viktim.xyz)** (Big Vik Claw) · **[viktim.xyz](https://viktim.xyz)** (the 1UP Network)
 
 ---
