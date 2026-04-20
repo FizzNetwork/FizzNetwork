@@ -28,8 +28,8 @@ No money yet. If it makes a living one day, great. If not, still worth doing.
 ## Reach out
 
 - Email: **officialfizznet@gmail.com**
-- X (Viktim / brand): [@viktimsprrtdsk](https://x.com/viktimsprrtdsk)
-- X (personal): [@kizldn](https://x.com/kizldn)
+- X (Viktim / brand): [@VIKTIMSPPRTDSK](https://x.com/VIKTIMSPPRTDSK)
+- X (personal): [@KizLdn](https://x.com/KizLdn)
 - Website: **[claw.viktim.xyz](https://claw.viktim.xyz)** (Big Vik Claw) · **[viktim.xyz](https://viktim.xyz)** (the 1UP Network)
 
 ---
