@@ -30,6 +30,7 @@ No money yet. If it makes a living one day, great. If not, still worth doing.
 - Email: **officialfizznet@gmail.com**
 - X (Viktim / brand): [@VIKTIMSPPRTDSK](https://x.com/VIKTIMSPPRTDSK)
 - X (personal): [@KizLdn](https://x.com/KizLdn)
+- LinkedIn: **[Fizz Network](https://uk.linkedin.com/in/fizz-network-711803404)**
 - Website: **[claw.viktim.xyz](https://claw.viktim.xyz)** (Big Vik Claw) · **[viktim.xyz](https://viktim.xyz)** (the 1UP Network)
 
 ---
